@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Aditi5Naik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Aditi5Naik/Aditi5Naik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m [@Aditi5Naik](https://github.com/Aditi5Naik)
+- 👀 I’m interested in Python development, web development, and automation.
+- 🌱 I’m currently learning new technologies and staying updated with the latest trends in the software development field.
+- 💻 My skills include Python, Django, Django Rest Framework (DRF), web scraping, Selenium, BeautifulSoup (bs4), and database management with PostgreSQL, SQL, and SQLite3.
+- 🤝 I’m open to collaborating on Python or Django-related projects and any interesting automation tasks.
+- 📫 You can reach me through [my GitHub profile](https://github.com/Aditi5Naik).
